@@ -10,11 +10,19 @@
 - ⚡ Fun fact **I am funny**
 
 <center>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF4488&center=true&vCenter=true&width=435&lines=Welcome+here+to+my+Github;I'am+Risbelina+Sitepu;Web+Developer;UI/UX+Web+Design;Front-End+Developer;Soon+to+be+a+Full+Stack+Developer;.+.+.;%3D%3D%3D%5B+Have+a+nice+coding!+%5D%3D%3D%3D;%E2%9D%A3%EF%B8%8F+%E2%9D%A3%EF%B8%8F+%E2%9D%A3%EF%B8%8F)](https://git.io/typing-svg)
+  <h1 align="center">Welcome to my GitHub!</h1>
+  <h2 align="center">I'm Risbelina Sitepu</h2>
+  <h3 align="center">Web Developer | UI/UX Web Design | Front-End Developer | Soon to be a Full Stack Developer</h3>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF4488&center=true&vCenter=true&width=435&lines=Welcome+here+to+my+Github;I'am+Risbelina+Sitepu;Web+Developer;UI/UX+Web+Design;Front-End+Developer;Soon+to+be+a+Full+Stack+Developer;.+.+.;%3D%3D%3D%5B+Have+a+nice+coding!+%5D%3D%3D%3D;%E2%9D%A3%EF%B8%8F+%E2%9D%A3%EF%B8%8F+%E2%9D%A3%EF%B8%8F)](https://git.io/typing-svg)
+  <br><br>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding" width="400">
+  <br><br>
+  <h3 align="center">Visitor Count</h3>
+  <img align="center" src="https://profile-counter.glitch.me/RisbelinaStp/count.svg">
+  <br><br>
+  <h3 align="center">My Contributions</h3>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
 </center>
-
-### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/RisbelinaStp/count.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RisbelinaStp&" alt="RisbelinaStp" /></p>
 
