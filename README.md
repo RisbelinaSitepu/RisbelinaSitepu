@@ -6,7 +6,7 @@
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning ReactJS, TailwindCSS, Vite
 - 👯 I’m looking to collaborate as Web Developer
-- 👨‍💻 All of my projects are available at [github.com/DevisWisley](https://github.com/DevisWisley?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/DevisWisley](https://github.com/RisbelinaStp?tab=repositories)
 - 📫 How to reach me: deviswisley27@gmail.com
 - ⚡ Fun fact **I am funny😅**
 - 💬 Ask me about anything
@@ -19,9 +19,9 @@
 
 ### Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/DevisWisley/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/RisbelinaStp/count.svg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevisWisley&" alt="DevisWisley" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RisbelinaStp&" alt="RisbelinaStp" /></p>
 
 ## <b>🛠️ Languages-Frameworks-Tools </b>
   <code><img src="https://skillicons.dev/icons?i=c,cpp,css,dart,go,html,java,javascript,lua,md,mysql,php,py,regex,sass"/></code>
@@ -29,22 +29,10 @@
   <code><img src="https://skillicons.dev/icons?i=androidstudio,arduino,codepen,figma,git,github,powershell,pycharm,sublime,stackoverflow,vercel,visualstudio,vscode"/></code>
 
 ## <b>🛠️ Used Languages</b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevisWisley&show_icons=true&locale=en&layout=compact" alt="DevisWisley" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevisWisley&show_icons=true&locale=en&layout=compact" alt="RisbelinaStp" /></p>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevisWisley)](https://github.com/anuraghazra/github-readme-stats)
   </a>
-  
-```
-  ____                  ____
- / __ \___  ___ ___    / __/__  __ _____________
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_)
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/
-   _/_/                  __  __   _
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/
-```
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
