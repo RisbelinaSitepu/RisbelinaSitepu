@@ -1,11 +1,12 @@
 <h1 align="center">Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Risbelina Sitepu</h1>
 <h3 align="center">A passionate Frontend Developer from Indonesia.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
 
 - 🌱 I’m currently learning ReactJS, TailwindCSS, Vite
 - 🔭 I’m looking to collaborate as Web Developer
 - 🔗 All of my projects are available at [github.com/RisbelinaStp](https://github.com/RisbelinaStp?tab=repositories)
-- 📫 How to reach me: risbelinasitepu27@gmail.com
+- 📫 How to reach me: risbelinasitepu1@gmail.com
 - ⚡ Fun fact **I am funny**
 
 <center>
