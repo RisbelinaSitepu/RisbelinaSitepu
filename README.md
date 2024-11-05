@@ -22,10 +22,6 @@
     <!-- Visitor Counter with Icon -->
     <h3>👀 Visitor Count</h3>
     <img src="https://profile-counter.glitch.me/RisbelinaStp/count.svg" alt="Visitor Count" width="100">
-    
-    <!-- Contributions Section with Icon and Alternative Snake Animation -->
-    <h3>💻 Contributions Activity</h3>
-    <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" style="max-width:100%;">
 </div>
 
 <!-- Social Icons -->
