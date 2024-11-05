@@ -7,19 +7,14 @@
 <p align="left">
     🌱 I’m currently learning ReactJS, TailwindCSS, Vite<br>
     🤝 Looking to collaborate as Web Developer<br>
-    📂 All of my projects are available at [github.com/RisbelinaStp](https://github.com/RisbelinaStp?tab=repositories)<br>
+    📂 All of my projects are available at <a href="https://github.com/RisbelinaStp?tab=repositories" target="_blank">github.com/RisbelinaStp</a><br>
     📫 How to reach me: <a href="mailto:risbelinasitepu1@gmail.com">risbelinasitepu1@gmail.com</a><br>
-    ⚡ Fun fact: **I am funny!**
+    ⚡ Fun fact: <b>I am funny!</b>
 </p>
 
 <!-- Stylish Banner -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=500&color=0EFFF7&center=true&vCenter=true&width=600&lines=Hello,+I'm+Risbelina+Sitepu+!;Welcome+to+My+GitHub+Profile;Front-End+Developer;UI/UX+Designer;Ready+for+Full+Stack!" alt="Typing SVG">
-</p>
-
-<!-- Animated Banner with Marquee Effect -->
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225613037-87ef969c-74de-402f-a34a-1df54b6cd6e8.gif" width="100%">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=500&color=0EFFF7&center=true&vCenter=true&width=600&lines=Hello,+I'm+Risbelina+Sitepu!;Welcome+to+My+GitHub+Profile;Front-End+Developer;UI/UX+Designer;Ready+for+Full+Stack!" alt="Typing SVG">
 </p>
 
 <!-- Visitor Count & Contributions -->
@@ -41,17 +36,16 @@
     <a href="mailto:risbelinasitepu1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-<!-- Animasi Horizontal Berjalan dengan Marquee -->
+<!-- Marquee Animation -->
 <p align="center">
     <marquee behavior="scroll" direction="left" scrollamount="5">
         💻 Welcome to my world of coding! | 🚀 Let's collaborate and create something amazing! | 🌟 Thank you for visiting!
     </marquee>
 </p>
 
-
 <!-- Languages, Frameworks, and Tools -->
 ## <b>Languages-Frameworks-Tools</b>
-<p>
+<p align="center">
     <code><img src="https://skillicons.dev/icons?i=c,cpp,css,dart,go,html,java,javascript,lua,md,mysql,php,py,regex,sass"/></code>
     <code><img src="https://skillicons.dev/icons?i=bootstrap,flutter,gradle,materialui,jquery,nextjs,nodejs,npm,postman,react,tailwind,vite"/></code>
     <code><img src="https://skillicons.dev/icons?i=androidstudio,arduino,codepen,figma,git,github,powershell,pycharm,sublime,stackoverflow,vercel,visualstudio,vscode"/></code>
@@ -59,13 +53,15 @@
 
 <!-- Most Used Languages -->
 ## <b>Used Languages</b>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RisbelinaStp&show_icons=true&locale=en&layout=compact" alt="RisbelinaStp">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RisbelinaStp&show_icons=true&locale=en&layout=compact" alt="RisbelinaStp">
 </p>
 
 <!-- Support Section -->
 ## Support the Project
-Thank you so much for using my projects! If you'd like to support my open-source work, consider buying me a coffee:
-<a href='https://ko-fi.com/risbelinasitepu' target='_blank'>
-    <img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
+<p align="center">
+    Thank you so much for using my projects! If you'd like to support my open-source work, consider buying me a coffee:
+    <a href='https://ko-fi.com/risbelinasitepu' target='_blank'>
+        <img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    </a>
+</p>
