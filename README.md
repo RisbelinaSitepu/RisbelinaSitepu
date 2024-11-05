@@ -27,11 +27,6 @@
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
 </div>
 
-<!-- Stats -->
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RisbelinaStp&" alt="RisbelinaStp">
-</p>
-
 <!-- Languages, Frameworks, and Tools -->
 ## <b>Languages-Frameworks-Tools</b>
 <p>
