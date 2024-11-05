@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/3o85xso9c5sjg8H4k8/giphy.gif" width="5%"></a> I'm Risbelina Sitepu</h1>
+src="https://media.giphy.com/media/3o85xso9c5sjg8H4k8/giphy.gif" width="5%"></a> I'm Risbelina Sitepu</h1>
 <h3 align="center">A passionate Frontend Developer from Indonesia</h3>
 
 <!-- Stylish Banner with Typing Animation -->
