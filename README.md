@@ -1,6 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Risbelina Sitepu</h1><!-- Header Section -->
-<h1 align="center">Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Risbelina Sitepu</h1>
+<h1 align="center">Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/3o85xso9c5sjg8H4k8/giphy.gif" width="5%"></a> I'm Risbelina Sitepu</h1>
 <h3 align="center">A passionate Frontend Developer from Indonesia</h3>
 
 <!-- Stylish Banner with Typing Animation -->
@@ -8,8 +7,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+am+Risbelina+Sitepu;A+Frontend+Developer;Let's+Create+Something+Amazing!" alt="Typing SVG">
 </p>
 
-<!-- GIF & Intro -->
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<!-- Frog GIF & Intro -->
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/l2JhOqJ5W7os8n9rG/giphy.gif">
 <p align="left">
     🌱 I’m currently learning Flutter, Dart, Vite<br>
     🤝 Looking to collaborate as Web Developer<br>
@@ -37,69 +36,7 @@
 <!-- Marquee Animation -->
 <p align="center">
     <marquee behavior="scroll" direction="left" scrollamount="5">
-        💻 Welcome to my world of coding! | 🚀 Let's collaborate and create something amazing! | 🌟 Thank you for visiting!
-    </marquee>
-</p>
-
-<!-- Languages, Frameworks, and Tools -->
-## <b>Languages-Frameworks-Tools</b>
-<p align="center">
-    <code><img src="https://skillicons.dev/icons?i=c,cpp,css,dart,go,html,java,javascript,lua,md,mysql,php,py,regex,sass"/></code>
-    <code><img src="https://skillicons.dev/icons?i=bootstrap,flutter,gradle,materialui,jquery,nextjs,nodejs,npm,postman,react,tailwind,vite"/></code>
-    <code><img src="https://skillicons.dev/icons?i=androidstudio,arduino,codepen,figma,git,github,powershell,pycharm,sublime,stackoverflow,vercel,visualstudio,vscode"/></code>
-</p>
-
-<!-- Most Used Languages -->
-## <b>Used Languages</b>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RisbelinaStp&show_icons=true&locale=en&layout=compact" alt="RisbelinaStp">
-</p>
-
-<!-- Support Section -->
-## Support the Project
-<p align="center">
-    Thank you so much for using my projects! If you'd like to support my open-source work, consider buying me a coffee:
-    <a href='https://ko-fi.com/risbelinasitepu' target='_blank'>
-        <img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-    </a>
-</p>
-
-<h3 align="center">A passionate Frontend Developer from Indonesia</h3>
-
-<!-- GIF & Intro -->
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-<p align="left">
-    🌱 I’m currently learning ReactJS, TailwindCSS, Vite<br>
-    🤝 Looking to collaborate as Web Developer<br>
-    📂 All of my projects are available at <a href="https://github.com/RisbelinaStp?tab=repositories" target="_blank">github.com/RisbelinaStp</a><br>
-    📫 How to reach me: <a href="mailto:risbelinasitepu1@gmail.com">risbelinasitepu1@gmail.com</a><br>
-    ⚡ Fun fact: <b>I am funny!</b>
-</p>
-
-<!-- Stylish Banner -->
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=500&color=0EFFF7&center=true&vCenter=true&width=600&lines=Hello,+I'm+Risbelina+Sitepu!;Welcome+to+My+GitHub+Profile;Front-End+Developer;UI/UX+Designer;Ready+for+Full+Stack!" alt="Typing SVG">
-</p>
-
-<!-- Visitor Count & Contributions -->
-<div align="center">
-    <!-- Visitor Counter with Icon -->
-    <h3>👀 Visitor Count</h3>
-    <img src="https://profile-counter.glitch.me/RisbelinaStp/count.svg" alt="Visitor Count" width="100">
-</div>
-
-<!-- Social Icons -->
-<div align="center">
-    <h3>Connect with Me</h3>
-    <a href="https://linkedin.com/in/risbelina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/RisbelinaStp" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="mailto:risbelinasitepu1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
-
-<!-- Marquee Animation -->
-<p align="center">
-    <marquee behavior="scroll" direction="left" scrollamount="5">
-        💻 Welcome to my world of coding! | 🚀 Let's collaborate and create something amazing! | 🌟 Thank you for visiting!
+        🐸 Welcome to my world of coding! | 🚀 Let's collaborate and create something amazing! | 🌟 Thank you for visiting!
     </marquee>
 </p>
 
