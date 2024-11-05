@@ -24,10 +24,28 @@
   <img src="https://profile-counter.glitch.me/RisbelinaStp/count.svg" alt="Visitor Count" width="120" style="transform: perspective(500px) rotateX(20deg); box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease-in-out;"> 
 
   <h3>💻 Contributions Activity</h3> 
-  <!-- Custom Frog Animation with 3D Tilt Effect -->
-  <!-- Placeholder image for frog animation -->
-  <img src="https://example.com/path-to-your-frog-animation.svg" alt="frog eating my contributions" style="max-width: 100%; transform: perspective(1000px) rotateX(15deg); box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;"> 
+  <!-- Pac-Man Animation with 3D Tilt Effect -->
+  <div style="position: relative; width: 100%; max-width: 500px; height: 100px; overflow: hidden; perspective: 1000px;">
+    <!-- Pac-Man Icon -->
+    <img src="https://example.com/path-to-your-pacman-icon.svg" alt="Pac-Man" style="position: absolute; width: 50px; height: 50px; animation: pacman-move 5s linear infinite; transform: perspective(1000px) rotateX(15deg); box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;">
+    <!-- Contributions Dots -->
+    <div style="position: absolute; top: 50%; left: 60px; display: flex; gap: 10px; transform: translateY(-50%);">
+      <div style="width: 10px; height: 10px; background-color: #f8d210; border-radius: 50%;"></div>
+      <div style="width: 10px; height: 10px; background-color: #f8d210; border-radius: 50%;"></div>
+      <div style="width: 10px; height: 10px; background-color: #f8d210; border-radius: 50%;"></div>
+      <!-- Add more dots as needed -->
+    </div>
+  </div>
 </div>
+
+<!-- CSS for Pac-Man Animation -->
+<style>
+@keyframes pacman-move {
+  from { left: -50px; }
+  to { left: calc(100% + 50px); }
+}
+</style>
+
 
 
 <!-- Social Icons -->
