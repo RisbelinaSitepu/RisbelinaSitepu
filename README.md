@@ -18,11 +18,17 @@
 </p>
 
 <!-- Visitor Count & Contributions with 3D Effect --> 
-<div align="center"> <h3>👀 Visitor Count</h3> <!-- Visitor Counter with 3D Shadow Effect --> <img src="https://profile-counter.glitch.me/RisbelinaStp/count.svg" alt="Visitor Count" width="120" style="transform: perspective(500px) rotateX(20deg); box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease-in-out;"> 
-<h3>💻 Contributions Activity</h3> 
-<!-- Contribution Snake Animation with 3D Tilt Effect --> 
-<img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" style="max-width: 100%; transform: perspective(1000px) rotateX(15deg); box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;"> 
+<div align="center"> 
+  <h3>👀 Visitor Count</h3> 
+  <!-- Visitor Counter with 3D Shadow Effect --> 
+  <img src="https://profile-counter.glitch.me/RisbelinaStp/count.svg" alt="Visitor Count" width="120" style="transform: perspective(500px) rotateX(20deg); box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease-in-out;"> 
+
+  <h3>💻 Contributions Activity</h3> 
+  <!-- Custom Frog Animation with 3D Tilt Effect -->
+  <!-- Placeholder image for frog animation -->
+  <img src="https://example.com/path-to-your-frog-animation.svg" alt="frog eating my contributions" style="max-width: 100%; transform: perspective(1000px) rotateX(15deg); box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;"> 
 </div>
+
 
 <!-- Social Icons -->
 <div align="center">
