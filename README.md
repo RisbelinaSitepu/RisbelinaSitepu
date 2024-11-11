@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 src="https://media.giphy.com/media/3o85xso9c5sjg8H4k8/giphy.gif" width="5%"></a> I'm Risbelina Sitepu</h1>
+<h1 src="https://media.giphy.com/media/3o85xso9c5sjg8H4k8/giphy.gif" width="5%"></a> Holla Amigos Risbelina Sitepu</h1>
 <h3 align="center">A passionate Frontend Developer from Indonesia</h3>
 
 <!-- Stylish Banner with Typing Animation -->
@@ -27,7 +27,7 @@
   <!-- Pac-Man Animation with 3D Tilt Effect -->
   <div style="position: relative; width: 100%; max-width: 500px; height: 100px; overflow: hidden; perspective: 1000px;">
     <!-- Pac-Man Icon -->
-    <img src="https://example.com/path-to-your-pacman-icon.svg" alt="Pac-Man" style="position: absolute; width: 50px; height: 50px; animation: pacman-move 5s linear infinite; transform: perspective(1000px) rotateX(15deg); box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;">
+    <img src="[https://example.com/path-to-your-pacman-icon.svg](https://wifflegif.com/gifs/213929-game-over-childhood-gif)" alt="Pac-Man" style="position: absolute; width: 50px; height: 50px; animation: pacman-move 5s linear infinite; transform: perspective(1000px) rotateX(15deg); box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;">
     <!-- Contributions Dots -->
     <div style="position: absolute; top: 50%; left: 60px; display: flex; gap: 10px; transform: translateY(-50%);">
       <div style="width: 10px; height: 10px; background-color: #f8d210; border-radius: 50%;"></div>
